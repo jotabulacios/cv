@@ -12,6 +12,7 @@ Facultad de Ingeniería, Universidad de Buenos aires<br/>
 
 `2022`
 **Ingeniería Mecánica**, *Universidad de Buenos Aires*,
+
 Tesis: Desarrollo y evaluacion de Materiales Compuestos e implantes biodegradables
 
 
