@@ -7,24 +7,12 @@ Estudiante y docente
 
 Facultad de Ingeniería, Universidad de Buenos aires<br/>
 
-<a href="jbulacios@fi.uba">jbulacios@fi.uba.ar</a> - +358 (0)2 941 51617
+<a href="jbulacios@fi.uba">jbulacios@fi.uba.ar</a> 
+## Educación
 
-<div id="webaddress">
-  <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
-  <a href="https://wiki.helsinki.fi/x/3xjABg"><i class="fas fa-users"></i> wiki.helsinki.fi/x/3xjABg (group)</a><br/>
-  <a href="https://github.com/davewhipp"><i class="fab fa-github"></i> davewhipp</a> - 
-  <a href="https://orcid.org/0000-0002-3820-6886"><i class="ai ai-orcid"></i> 0000-0002-3820-6886</a> - 
-  <a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> - 
-  <a href="https://twitter.com/dave_whipp"><i class="fab fa-twitter"></i> @dave_whipp</a>
-</div>
+`2022`
+**Ingeniería Mecánica**, *Universidad de Buenos Aires*, Tesis: Desarrollo y evaluacion de Materiales Compuestos e implantes biodegradables
 
-## Education
-
-`2003-2008`
-**Ph.D., Geology**, *University of Michigan*, Ann Arbor, MI, USA.
-
-`1998-2002`
-**B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA.
 
 ## Experience (selected)
 
