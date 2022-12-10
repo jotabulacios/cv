@@ -1,15 +1,13 @@
 ---
 layout: cv
-title: David Whipp's CV
+title: Juan Pablo Bulacios CV
 ---
-# David Whipp
-Associate professor, University of Helsinki
+# Juan Pablo Bulacios
+Estudiante y docente
 
-Institute of Seismology, Department of Geosciences and Geography<br/>
-P.O. Box 68 (Gustaf Hällströmin katu 2b)<br/>
-FI-00014 University of Helsinki, Finland<br/>
+Facultad de Ingeniería, Universidad de Buenos aires<br/>
 
-<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617
+<a href="jbulacios@fi.uba">jbulacios@fi.uba.ar</a> - +358 (0)2 941 51617
 
 <div id="webaddress">
   <a href="https://davewhipp.github.io"><i class="fas fa-home"></i> davewhipp.github.io</a> - 
